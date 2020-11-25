@@ -9,3 +9,5 @@ Of course, there are dozens of different visualization elements (e.g. bar charts
 Lastly, our tutorial relies on Matplotlib, the most widely-used Python library for data visualization. My choice is based on the fact that Matplotlib makes it really easy to plot a publication-style figure with just a few lines of code.
 
 Let's get to it!
+
+<p align="center"><img width="600" src="Plotting_logo.png"></p>
