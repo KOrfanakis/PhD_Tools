@@ -1,7 +1,7 @@
 # Curve Fitting With Python
 
 Simply put, curve fitting is the process of finding a curve that best matches a series of observations. 
-It mainly consists of two basic steps. Initially, we have to find an appropriate model to describe the 
+It mainly consists of two basic steps. First, we need to find an appropriate model to describe the 
 relationship between a dependent variable, *y*, and an independent variable, *x*. Then, we need to estimate the optimal model parameters that best fit the given set of data points.
 
 Curve fitting is one of the most widely used analysis tools in experimental physics. Machines output data, but they cannot infer any information about the underlying process that generated the data. 
@@ -11,7 +11,7 @@ Therefore, the experimentalist needs to find a model that approximates the behav
 and plot the best curve. For this purpose, we will use the [LMfit](https://pypi.org/project/lmfit/) package, which ‘*provides simple tools to help us build complex fitting models for non-linear least-squares problems and apply these models to real data*’. 
 
 This notebook is not an extensive tutorial; instead, it should be used as a quick-start guide to curve fitting. 
-For more information, please refer to the official documentation and the resources listed in this file.
+For more information, please refer to the official documentation and the resources listed in this README file.
 
 <p align="center">
   <img src="/Curve Fitting/Fitted_Spectrum.png" width="600" title="hover text">
