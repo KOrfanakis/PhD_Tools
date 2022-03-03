@@ -1,15 +1,35 @@
-# Ph.D. Tools
-
-This repository contains the code for various tools I used during my doctoral degree. These tools are:
-
-- [x] A template for creating publication-style figures ([Plotting](https://github.com/KOrfanakis/PhD_Tools/tree/main/Plotting)),
-- [x] [Curve Fitting](https://github.com/KOrfanakis/PhD_Tools/tree/main/Curve%20Fitting), and
-- [x] [Making GIFs](https://github.com/KOrfanakis/PhD_Tools/tree/main/Making%20GIFs).
-
-All three tutorials are written in [Python](https://www.python.org/) and are presented as [Jupyter notebooks](https://jupyter.org/).
-
-<br><br><br>
+<div align="center">
+    <br>
+    <img src="Repo_logo.svg" width="600" title="hover text">
+    <p>
+    <br>This repository contains the code for various tools I used during my doctoral degree.
+    </p>
+    <hr/>
+</div>
 
 <p align="center">
-  <img src="Repo_logo.png" width="800" title="hover text">
+    <a href="https://www.python.org/">
+        <img alt="Made with" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+    </a>
+    <a href="https://jupyter.org/try">
+        <img alt="Made with and" src="https://img.shields.io/badge/And%20-Jupyter-orange.svg">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="Licence" src="https://img.shields.io/badge/License-MIT-0298c3.svg">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=9cf">
+    </a>
+    <br/>
 </p>
+
+<br>
+
+So far, I have worked on four projects:
+
+- [x] [Plotting](https://github.com/KOrfanakis/PhD_Tools/tree/main/Plotting): A template for creating publication-style figures.
+- [x] [Curve Fitting](https://github.com/KOrfanakis/PhD_Tools/tree/main/Curve%20Fitting): A template for fitting curves with Python's `lmfit` module.
+- [x] [Interactive Widgets](https://github.com/KOrfanakis/PhD_Tools/tree/main/Interactive_Widgets): A way of making notebooks come alive with interactive widgets.
+- [x] [Making GIFs](https://github.com/KOrfanakis/PhD_Tools/tree/main/Making%20GIFs): A walkthrough of creating GIFs in Jupyter.
+
+<br>
