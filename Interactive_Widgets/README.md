@@ -1,9 +1,11 @@
 # Interactive Plots with ipywidgets
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOrfanakis/PhD_Tools/main?labpath=%2FInteractive_Widgets%2FInteractive_Widgets.ipynb)
+
 Usually, creating a static figure is enough; we can visualise the data and extract meaningful insights.
 However, we sometimes might want to interactively change the figure without manually changing the parameters and rerunning the code. 
 
-We can easily achieve this by using the **[ipywidgets library](https://ipywidgets.readthedocs.io/en/latest/index.html#)**. 
+We can easily achieve this by using the **[`ipywidgets` library](https://ipywidgets.readthedocs.io/en/latest/index.html#)**. 
 Ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets (e.g. sliders, text boxes, etc.)
 for Jupyter notebooks and the IPython kernel.
 
