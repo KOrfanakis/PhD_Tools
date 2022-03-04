@@ -1,6 +1,9 @@
 # Interactive Plots with ipywidgets
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOrfanakis/PhD_Tools/main?labpath=%2FInteractive_Widgets%2FInteractive_Widgets.ipynb)
+[![Demo](https://img.shields.io/badge/Demo-Youtube-red.svg)](https://youtu.be/NhG0OhonedE)
+
+<br>
 
 Usually, creating a static figure is enough; we can visualise the data and extract meaningful insights.
 However, we sometimes might want to interactively change the figure without manually changing the parameters and rerunning the code. 
