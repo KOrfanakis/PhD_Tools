@@ -25,4 +25,4 @@ Our analysis uses four types of widgets:  IntSlider, FloatSlider, ColorPicker, a
 
 Python Version: 3.10.2 <br>
 Jupyter Notebook Version: 6.4.8 <br>
-Packages: numpy (1.22.2), matplotlib (3.5.1), ipywidgets (7.6.5) <br>
+Packages: ipywidgets (7.6.5), NumPy (1.22.2), Matplotlib (3.5.1)<br>
