@@ -1,4 +1,4 @@
-# Curve Fitting With Python
+# Curve Fitting with Python
 
 Simply put, curve fitting is the process of finding a curve that best matches a series of observations. 
 It mainly consists of two basic steps. First, we need to find an appropriate model to describe the 
@@ -29,7 +29,8 @@ Assume [Lorentzian lineshape](https://en.wikipedia.org/wiki/Cauchy_distribution)
 
 ## Resources Used
 
-Python Version: 3.10.2<br>
+Python Version: 3.10.2 <br>
+Jupyter Notebook Version: 6.4.8 <br>
 Packages: LMfit (1.0.3), NumPy (1.22.2), Matplotlib (3.5.1), Pandas (1.4.1), SciPy (1.8.0)<br>
 Other Resources:
 - [Data Fitting in Python Part II: Gaussian & Lorentzian & Voigt Lineshapes, Deconvoluting Peaks, and Fitting Residuals](http://www.emilygraceripka.com/blog/16), by Emily Ripka (Accessed: December 2020).
